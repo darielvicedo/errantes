@@ -2,3 +2,21 @@
 
 @import "bootstrap";
 @import "bootstrap-icons";
+
+body {
+  background-color: $app-color-white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: $app-color-black;
+}
+
+.bg-light-gray {
+  background-color: $app-color-light-gray;
+}
